@@ -3,7 +3,7 @@
 Real-time face recognition program using Google's facenet.
 * [youtube video](https://www.youtube.com/watch?v=T6czH6DLhC4)
 ## Inspiration
-* I just execuated [bearsprogrammer](https://github.com/bearsprogrammer/real-time-deep-face-recognition)'s code qith my own data
+* I just executed [bearsprogrammer](https://github.com/bearsprogrammer/real-time-deep-face-recognition)'s code qith my own data
 * [OpenFace](https://github.com/cmusatyalab/openface)
 * I refer to the facenet repository of [davidsandberg](https://github.com/davidsandberg/facenet).
 * also, [shanren7](https://github.com/shanren7/real_time_face_recognition) repository was a great help in implementing.
