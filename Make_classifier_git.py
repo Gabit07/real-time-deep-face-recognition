@@ -18,7 +18,7 @@ with tf.Graph().as_default():
 
     with tf.Session() as sess:
 
-        datadir = '/home/gabit/real-time-deep-face-recognition/images' #..Path to align face data../
+        datadir = '/home/gabit/real-time-deep-face-recognition/output_dir' #..Path to align face data../
         dataset = facenet.get_dataset(datadir)
         paths, labels = facenet.get_image_paths_and_labels(dataset)
         print('Number of classes: %d' % len(dataset))
