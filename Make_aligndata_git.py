@@ -13,7 +13,7 @@ import detect_face
 import random
 from time import sleep
 
-output_dir_path = '/home/gabit/real-time-deep-face-recognition/Output' #..Path to output folder..
+output_dir_path = '/home/gabit/real-time-deep-face-recognition/output_dir' #..Path to output folder..
 output_dir = os.path.expanduser(output_dir_path)
 if not os.path.exists(output_dir):
         os.makedirs(output_dir)
